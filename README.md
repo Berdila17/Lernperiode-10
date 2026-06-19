@@ -21,7 +21,9 @@ Ich habe heute alle meine soziale Medien Accounts auspoliert das heisst also Ins
 
 ## 19.06.2026
 
-- [ ] Lebenslauf besser gestalten anhand des Feedbacks von Herr Laubscher
-- [ ] Github Profil gestalten sodass es für andere besser aussieht beim Recherchieren
-- [ ] Referenzschreiben auspolieren
-- [ ] 1 Bewewrbung schreiben + abschicken
+- [x] Lebenslauf besser gestalten anhand des Feedbacks von Herr Laubscher
+- [x] Github Profil gestalten sodass es für andere besser aussieht beim Recherchieren
+- [x] Referenzschreiben auspolieren
+- [x] 1 Bewewrbung schreiben
+
+Ich habe heute zuerst mein Lebnslauf umgestlatet d.h anhand der Bewertung die Herr Laubscher gegeben hat es verbessert (Design,Infos) danach hab ich mein Github Profil ein bisschen weiter verbessert beste Projekte anpinnen etc. das Referenzschreiben dazu hab ich noch auspoliert weil ich mehr Inhalt hineinfügen wollte und deswegen nicht zufrieden war. Zuletzt hab ich meine erste Bewerbung geschrieben und zwar für die SBB.
